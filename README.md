@@ -1,4 +1,4 @@
-# orion_hospitality_sentiment
+# Social House Sentiment Analysis
 
 This is a large Natural Language Processing personal project that I undertook for Orion Hospitality. Data was collected by scrapping Yelp Reviews for both the target and for the competion. The purpose of this project was to conduct sentiment analysis and identify how it has changed over time for both Social House (an Orion Hospitality concept) and for the main competitor in the area. The results were compiled in a IPYNB notebook and utilized the Vader Sentiment Analysis tool. This project required significant cleaning of the data prior to developing both wordclouds and charts of sentiment over time.
 ![Screenshot 2021-11-26 180216](https://user-images.githubusercontent.com/61364738/143660214-5fa74394-f215-46bd-b4ae-a85330077b4e.png)
